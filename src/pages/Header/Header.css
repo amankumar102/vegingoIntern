@@ -1,0 +1,17 @@
+
+.nav-link {
+    color: grey;
+  }
+  
+  .active-link {
+    color: red !important; 
+  }
+  
+  .inactive-link {
+    color: grey !important; 
+}
+
+.logo {
+    margin-left: 50px; 
+    margin-right: 400px;
+}

@@ -1,0 +1,50 @@
+[
+    {   
+        "id": 1,
+        "image": "/src/assets/ginger.png",
+        "title": "Ginger 500 G",
+        "price": "$15.00"
+    },
+    {   
+        "id": 2,
+        "image": "/src/assets/asparagus.jpeg",
+        "title": "Asparagus 400 G",
+        "price": "$5.00"
+    },
+    {   
+        "id": 3,
+        "image": "/src/assets/turmeric.png",
+        "title": "Turmeric Root 200 G",
+        "price": "$12.00"
+    },
+    {   
+        "id": 4,
+        "image": "/src/assets/butternut.jpeg",
+        "title": "Butternuts 3 Kg",
+        "price": "$16.00"
+    },
+    {   
+        "id": 5,
+        "image": "/src/assets/avocado.jpg",
+        "title": "Avocado Ripe",
+        "price": "$14.00"
+    },
+    {   
+        "id": 6,
+        "image": "/src/assets/yellow_pepper.png",
+        "title": "Yellow Pepper",
+        "price": "$5.00"
+    },
+    {   
+        "id": 7,
+        "image": "/src/assets/beetroot.jpeg",
+        "title": "Chioggia Beetroot",
+        "price": "$8.00"
+    },
+    {   
+        "id": 8,
+        "image": "/src/assets/tomato.jpeg",
+        "title": "Organic Tomatos",
+        "price": "$5.00"
+    }
+]

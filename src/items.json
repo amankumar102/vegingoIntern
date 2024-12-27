@@ -1,0 +1,32 @@
+[
+    {   
+        "id": 1,
+        "image": "https://png.pngtree.com/png-clipart/20231017/original/pngtree-cauliflower-isolated-png-image_13339523.png",
+        "title": "Cauli-Flower"
+    },
+    {   
+        "id": 2,
+        "image": "https://static.vecteezy.com/system/resources/previews/029/283/850/non_2x/single-tomato-tomato-red-tomato-red-tomato-clipart-transparent-background-ai-generative-free-png.png",
+        "title": "Tomato"
+    },
+    {
+        "id": 3,
+        "image": "https://static.vecteezy.com/system/resources/previews/027/214/981/non_2x/potato-potato-transparent-background-ai-generated-free-png.png",
+        "title": "Potato"
+    },
+    {
+        "id": 4,
+        "image": "https://pngimg.com/d/cabbage_PNG8804.png",
+        "title": "Cabbage"
+    },
+    {
+        "id": 5,
+        "image": "https://www.kenshodaily.com/cdn/shop/products/RidgeGourd_0f571382-279e-4a53-b259-a0144c2d54d3.png?v=1672742935",
+        "title": "Guard"
+    },
+    {   
+        "id": 6,
+        "image": "https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-fresh-bitter-gourd-vegetable-png-image_12689842.png",
+        "title": "Bitter-Guard"
+    }
+]

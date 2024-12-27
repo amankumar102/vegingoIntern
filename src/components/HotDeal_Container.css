@@ -1,0 +1,8 @@
+.big-card {
+    height: 100%;
+  }
+  
+  .d-flex.flex-column > .card {
+    margin-bottom: 20px;
+  }
+  

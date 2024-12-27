@@ -1,0 +1,41 @@
+.slick-slider {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .slide {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .slide img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+/* Custom styles for slick dots */ 
+.slick-dots { 
+    position: absolute; 
+    bottom: 20px; 
+    display: flex !important; 
+    justify-content: center; 
+    width: 100%; 
+
+} 
+.slick-dots li { 
+    margin: 0 2px;
+   
+   
+} 
+.slick-dots li button:before { 
+    font-size: 15px; 
+    color: white; 
+   
+} 
+.slick-dots li.slick-active button:before { 
+    color: gray; /* Change color for active dot */ 
+}

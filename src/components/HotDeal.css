@@ -1,0 +1,11 @@
+.parallax-header {
+    background: url('/src/assets/background.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content {
+    padding: 100px 0 150px 0;
+}
